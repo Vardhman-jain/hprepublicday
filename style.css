@@ -1,0 +1,16 @@
+body{
+  text-align: center;
+  background-color: black;
+}
+h1{
+  border-style: solid;
+  border-color: green;
+  border-bottom-color: green;
+  border-left-color: whitesmoke;
+  border-right-color: whitesmoke;
+  border-top-color: orangered;
+  color: blue;
+}
+p1{
+  color: black;
+}
